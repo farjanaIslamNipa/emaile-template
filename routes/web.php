@@ -21,8 +21,10 @@ Route::get('/', function () {
     ]);
 });
 Route::get('/order-email', function () {
-
     return view('emailTemplate.order-email-template');
+});
+Route::get('/new-appointment-email', function () {
+    return view('emailTemplate.new-appointment-template');
 });
 
 
