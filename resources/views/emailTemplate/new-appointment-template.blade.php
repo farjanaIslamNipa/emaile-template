@@ -78,7 +78,7 @@
                     </tbody>
                 </table>
                 <div style="text-align:center; padding:30px;margin-top:30px;">
-                    <div style="display:inline-block; border:1px solid #F38020; padding:5px 30px; "><span style="color:#F38020; font-size:18px;"><strong>Notes:</strong> Needed tech to refix the computer.</span></div>
+                    <div style="display:inline-block; border:1px solid #F38020; padding:5px 30px;"><span style="color:#F38020; font-size:18px;"><strong>Notes:</strong> Needed tech to refix the computer.</span></div>
                 </div>
             </main>
         </div>
