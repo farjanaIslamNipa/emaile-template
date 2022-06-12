@@ -19,12 +19,12 @@
                 <tbody>
                     <tr style="max-width: 100%;">
                         <td>
-                            <img style="width: 100%;" src="https://geekscrs.com.au/frontend/images/email-template/appointment-top.png" alt="Header banner">
+                            <img style="width: 100%;" src="https://geekscrs.com.au/frontend/images/email-template/payment-header.png" alt="Header banner">
                         </td>
                     </tr>
                 </tbody>
             </table>
-            <div style="padding: 30px 50px">
+            <div style="padding: 10px 50px">
                 <div style="text-align:center">
                     <img style="" src="https://geekscrs.com.au/frontend/images/email-template/payment-check.png" alt="">
                 </div>
@@ -66,8 +66,12 @@
                 </div>
                 <div style="text-align: center;padding-bottom:30px;">
                     <div style="display:inline-block; border:1px dashed #F38020; padding:5px;">
-                        <span style="font-size: 12px">VIEW YOUR PROFILE, APPOINTMENTS, INVOICES, LICENSES AND MORE - <span style="color:#F38020">CLICK HERE</span></span>
+                        <span style="font-size: 12px">VIEW YOUR PROFILE, APPOINTMENTS, INVOICES, LICENSES AND MORE - <a style="text-decoration: none" href=""><span style="color:#F38020">CLICK HERE</span></a></span>
                     </div>
+                </div>
+                <div style="margin-bottom: 25px;">
+                    <span style="display: block;">Have a good day!</span>
+                    <span style="display: block;"><strong>Geeks CRS</strong> Team</span>
                 </div>
             </main>
         </div>

@@ -29,6 +29,9 @@ Route::get('/new-appointment-email', function () {
 Route::get('/payment-email', function () {
     return view('emailTemplate.payment-email-template');
 });
+Route::get('/invoice-request-email', function () {
+    return view('emailTemplate.invoice-request-template');
+});
 
 
 Route::get('/posts/{post}', function ($slug) {

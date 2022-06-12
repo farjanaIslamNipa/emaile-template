@@ -56,7 +56,7 @@
                       </table>
                 </div>
                 <div style="padding:30px 0;overflow-x:auto;">
-                    <table cellpadding="0" cellspacing="0" style="width:100%; ">
+                    <table cellpadding="0" cellspacing="0" style="width:100%;">
                         <colgroup>
                             <col style="width: 10%;"> <!-- Sl -->
                             <col style="width: 30%;"> <!-- Item -->
