@@ -20,17 +20,20 @@ Route::get('/', function () {
         'posts' => Post::all()
     ]);
 });
-Route::get('/order-email', function () {
+Route::get('/order', function () {
     return view('emailTemplate.order-email-template');
 });
-Route::get('/new-appointment-email', function () {
+Route::get('/new-appointment', function () {
     return view('emailTemplate.new-appointment-template');
 });
-Route::get('/payment-email', function () {
+Route::get('/payment', function () {
     return view('emailTemplate.payment-email-template');
 });
-Route::get('/invoice-request-email', function () {
+Route::get('/invoice-request', function () {
     return view('emailTemplate.invoice-request-template');
+});
+Route::get('/feedback', function () {
+    return view('emailTemplate.feedback-email-template');
 });
 
 
