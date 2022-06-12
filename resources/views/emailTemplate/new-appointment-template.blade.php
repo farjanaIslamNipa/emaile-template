@@ -40,10 +40,45 @@
                 </div>
             </div>
 
-            <main>
-                <div style="padding: 30px 30px;">
-                    <h2 style="color: #F38020; margin-bottom:1px;">Hi Dinesh B <span>(VIC)</span></h2>
-                    <p style="font-size: 16px; color:#414042;">We are pleased to let you know, we have booked a computer appointment for you.</p>
+            <main style="padding: 10px 30px;">
+                <div>
+                    <h2 style="color: #F38020; margin-bottom:0px; line-height:1px;">Hi Dinesh B <span>(VIC)</span></h2>
+                    <p style="display:block; font-size: 16px; color:#414042; margin-bottom:20px;">We are pleased to let you know, we have booked a computer appointment for you.</p>
+                </div>
+                <table cellpadding="0" cellspacing="0" style="min-width:90%;">
+                    <tbody>
+                        <tr>
+                            <td style="font-weight:bold;">Appt No:</td>
+                            <td> GS1681A</td>
+                        </tr>
+                        <tr>
+                            <td style="font-weight:bold;">Appt Type:</td>
+                            <td> Home</td>
+                        </tr>
+                        <tr>
+                            <td style="font-weight:bold;">Arrival:</td>
+                            <td> 19 May, 2022 btween 08:00 AM - 09:00 AM</td>
+                        </tr>
+                        <tr>
+                            <td style="font-weight:bold;">Phone:</td>
+                            <td> 0478069972</td>
+                        </tr>
+                        <tr>
+                            <td style="font-weight:bold;">Email:</td>
+                            <td> judygtanner@gmail.com</td>
+                        </tr>
+                        <tr>
+                            <td style="font-weight:bold;">Where:</td>
+                            <td> Melbourne VIC, Australia</td>
+                        </tr>
+                        <tr>
+                            <td style="font-weight:bold;">With:</td>
+                            <td> Judy Tanner</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div style="text-align:center; padding:30px;margin-top:30px;">
+                    <div style="display:inline-block; border:1px solid #F38020; padding:5px 30px; "><span style="color:#F38020; font-size:18px;"><strong>Notes:</strong> Needed tech to refix the computer.</span></div>
                 </div>
             </main>
         </div>
