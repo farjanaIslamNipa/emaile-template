@@ -35,6 +35,9 @@ Route::get('/invoice-request', function () {
 Route::get('/feedback', function () {
     return view('emailTemplate.feedback-email-template');
 });
+Route::get('/appointment-closed', function () {
+    return view('emailTemplate.appointment-closed-email-template');
+});
 
 
 Route::get('/posts/{post}', function ($slug) {
