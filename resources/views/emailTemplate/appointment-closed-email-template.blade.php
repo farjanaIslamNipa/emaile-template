@@ -19,7 +19,7 @@
                 <tbody>
                     <tr style="max-width: 100%;">
                         <td>
-                            <img style="width: 100%;" src="https://geekscrs.com.au/frontend/images/email-template/appointement-close-header.png" alt="Header banner">
+                            <img style="width: 100%;" src="/images/email-template/appointement-close-header.png" alt="Header banner">
                         </td>
                     </tr>
                 </tbody>
@@ -34,10 +34,10 @@
                     <span style="display:block; color:#3d3d3d; margin-bottom:10px;"><strong>Date:</strong> 11 June, 2022 at 03:00 PM</span>
                     <span style="display:block; color:#3d3d3d; margin-bottom:10px;"><strong>With:</strong> Sandip KC (SA)</span>
                     <span style="display:block; color:#3d3d3d; margin-bottom:10px;"><strong>Problem Solved:</strong><span style="color:#F38020; text-transform:uppercase; font-weight:bold;"> Yes</span></span>
-                    <p><strong>Notes:</strong> The customer wanted some help resetting the pin for his computer. Fixed the issue. Made sure there is no other ongoing issues with the customer. Made sure everything is working fine. Customer understands that a new paid appointment might be needed for a tech to return. If you have any questions, you can reach us at 02 8005 1178 or if calling on the main number is not available, use option 2 as the call center may not be able to help. You can also email us at hello@geekscrs.com.au - preferred.</p>
+                    <p><strong style="color: #F38020">Notes:</strong> The customer wanted some help resetting the pin for his computer. Fixed the issue. Made sure there is no other ongoing issues with the customer. Made sure everything is working fine. Customer understands that a new paid appointment might be needed for a tech to return. If you have any questions, you can reach us at 02 8005 1178 or if calling on the main number is not available, use option 2 as the call center may not be able to help. You can also email us at hello@geekscrs.com.au - preferred.</p>
                     <span style="display:block; color:#3d3d3d; margin-bottom:10px;"><strong>Signed by Customer:</strong></span>
                     <div>
-                        <img src="https://geekscrs.com.au/frontend/images/email-template/signature.png" alt="">
+                        <img src="/images/email-template/signature.png" alt="">
                     </div>
                     <div style="text-align: center;">
                         <span style="display: inline-block; color:#F38020; font-size:18px; font-weight:bold; border-bottom:1px dashed #F38020; margin-bottom:10px;">Important</span>

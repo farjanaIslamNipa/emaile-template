@@ -39,6 +39,10 @@ Route::get('/appointment-closed', function () {
     return view('emailTemplate.appointment-closed-email-template');
 });
 
+Route::get('/service-agreement', function () {
+    return view('emailTemplate.service-agreement-email-template');
+});
+
 
 Route::get('/posts/{post}', function ($slug) {
 
